@@ -10,13 +10,11 @@
 /* Estilos gerais */
 
  body {
- background-image: url("https://img.freepik.com/premium-vector/gradient-blue-background-spot-light-effect_107708-48.jpg");
- background-repeat: no-repeat, repeat;
-  width:1800px ;
-  height: 2320px;
-  background-position: center; 
-   background-size: cover;
- background-color: #cccccc;
+background-image: url("https://img.freepik.com/premium-vector/gradient-blue-background-spot-light-effect_107708-48.jpg");
+background-repeat: no-repeat, repeat;
+background-position: center; 
+background-size: cover;
+background-color: #cccccc;
 }
 body {
     font-family: Abril Fatface;
